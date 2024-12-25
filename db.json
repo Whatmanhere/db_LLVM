@@ -1,0 +1,36 @@
+{
+  "LLVM_Verified_Names": [
+    {
+      "name": "Vtable",
+      "verified": true
+    },
+    {
+      "name": "Yoru",
+      "verified": true
+    },
+    {
+      "name": "Zayn",
+      "verified": true
+    },
+    {
+      "name": "Console",
+      "verified": true
+    },
+    {
+      "name": "Alex",
+      "verified": true
+    },
+    {
+      "name": "iusethis",
+      "verified": true
+    },
+    {
+      "name": "Tux",
+      "verified": true
+    },
+    {
+      "name": "de4dot",
+      "verified": true
+    }
+  ]
+}

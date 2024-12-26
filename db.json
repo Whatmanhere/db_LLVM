@@ -41,6 +41,26 @@
       "name": "Public",
       "verified": true
     },
+    {
+      "name": "User",
+      "verified": true
+    },
+    {
+      "name": "Account",
+      "verified": true
+    },
+    {
+      "name": "Unknown",
+      "verified": true
+    },
+    {
+      "name": "Guest",
+      "verified": true
+    },
+    {
+      "name": "Spectator",
+      "verified": true
+    },
   ]
 }
 

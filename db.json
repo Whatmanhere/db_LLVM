@@ -36,7 +36,11 @@
     {
       "name": "MasterOfBbcMunching42",
       "verified": true
-    }
+    },
+    {
+      "name": "Public",
+      "verified": true
+    },
   ]
 }
 
